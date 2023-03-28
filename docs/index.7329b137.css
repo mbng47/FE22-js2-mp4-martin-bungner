@@ -1,0 +1,2 @@
+body{flex-flow:wrap;justify-content:center;display:flex}.calculator{width:15rem;height:20rem;border:2px solid #000;border-radius:5px;margin-top:2em;padding:1em}.display{height:10%;background-color:#e6e6e680;flex-flow:row-reverse wrap;margin:.5em .5em 1em;padding-top:2em;display:flex}.buttons{height:70%;grid-template-columns:repeat(4,1fr);gap:.5em;display:grid}
+/*# sourceMappingURL=index.7329b137.css.map */
